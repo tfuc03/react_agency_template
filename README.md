@@ -1,12 +1,31 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Agency System Web App (Mini Version)
 
-Currently, two official plugins are available:
+Developed a sleek and responsive web application using React.js with Tailwind CSS for modern UI design and React Hot Toast for real-time notifications. The project features a service showcase, company introduction, client testimonials, and essential resources—all crafted to deliver a professional, user-friendly experience. This work demonstrates not only strong technical skills but also a focus on building digital solutions that truly align with client needs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://react-agency-template.vercel.app/
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/Jnp7TvhW/Screen-Shot-2025-09-06-at-14-24-28.png)![App Screenshot](https://i.postimg.cc/x19f29bS/Screen-Shot-2025-09-06-at-14-26-34.png)
+
+
+## Tech Stack
+
+**Client:** React + Vite, TailwindCSS, Framer Motion.
+
+**Server:** Vercel.
+
